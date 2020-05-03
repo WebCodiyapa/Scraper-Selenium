@@ -1,0 +1,34 @@
+{
+  "driver_options":
+  [
+    "--disable-blink-features",
+    "--disable-blink-features=AutomationControlled"
+  ],
+  "driver_exclude":
+  [
+    "enable-automation",
+    "enable-logging"
+  ],
+  "driver_extensions":
+  [
+  ],
+  "driver_hidden": false,
+  "driver_binary": "",
+  "driver_address": "",
+  "driver_logpath": "",
+  "company_names":
+  [
+    "property sourcing"
+  ],
+  "scrap_website": "URL",
+  "scrap_limits": ,
+  "scrap_parallel": ,
+  "scrap_logging": true,
+  "exact_matches": true,
+  "maximum_pages": ,
+  "output_folder": "output",
+  "crawl_histories": true,
+  "crawl_officers": true,
+  "restapi_enable": false,
+  "restapi_token": ""
+}
